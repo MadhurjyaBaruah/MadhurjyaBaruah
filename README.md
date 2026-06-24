@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @MadhurjyaBaruah
 
-<img src="github_avatar.gif" width="300" align="right" />
+<div align="center">
+  <img src="github_avatar.gif" width="300" />
+</div>
+<!-- <img src="github_avatar.gif" width="300" align="right" /> -->
 <!---- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
