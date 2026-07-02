@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EA043&height=200&section=header&text=Madhurjya%20Baruah&fontSize=55&fontColor=39D353&animation=fadeIn&desc=Computer%20Science%20Student&descAlignY=65&descSize=20&descColor=C9D1D9" width="100%"/>
 
-<img src="./avatar.gif" width="160" alt="Madhurjya Baruah"/>
+<img src="./github_avatar.gif" width="160" alt="Madhurjya Baruah"/>
 
 <br/>
 
