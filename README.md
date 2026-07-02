@@ -104,6 +104,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MadhurjyaBaruah/MadhurjyaBaruah/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div align="center">
 <sub>Redraws itself daily from my contribution graph, powered by a GitHub Action.</sub>
 </div>
 
